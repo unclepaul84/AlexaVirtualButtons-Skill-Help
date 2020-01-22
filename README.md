@@ -2,7 +2,7 @@
 Enables users to create virtual devices which can be used in Alexa Routines as triggers or actions. Great for DIY projects!
 
 - Allows triggering **Alexa Routines** via web browser or **IFTTT** or **NodeRed**
-- Allows **Alexa Routines** to call an arbitrary url
+- Allows **Alexa Routines** to call an arbitrary url (webhook)
 
 
 ### Creating Alexa Routine Trigger
