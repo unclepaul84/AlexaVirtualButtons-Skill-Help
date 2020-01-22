@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Virtual Buttons Alexa Skill
-logo: /logo.png
+logo: logo.png
 description: Virtual smart home devices for your DYI projects!
 show_downloads: false
 google_analytics:
