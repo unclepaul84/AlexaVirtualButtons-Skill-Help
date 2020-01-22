@@ -5,7 +5,7 @@ Enables users to create virtual devices which can be used in Alexa Routines as t
 - Allows **Alexa Routines** to call an arbitrary url (webhook)
 
 
-### Creating Alexa Routine Trigger
+### Tutorial - Creating Alexa Routine Trigger
 1. Login to [Control Panel](https://www.alexavirtualbuttons.tk) with your Amazon Login
 2. 
 
