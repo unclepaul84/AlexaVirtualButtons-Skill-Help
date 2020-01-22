@@ -1,13 +1,13 @@
 ### What is Virtual Buttons Alexa Skill?
 It is an Alexa Smart Home Skill which allows users to create virtual devices which can be used in Alexa Routines as triggers or actions.
 - Allows user to trigger Alexa Routine by making a via web request
-- Allows Alexa routine to call an arbitrary url
+- Allows Alexa Routine to call an arbitrary url
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
@@ -33,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Still Having trouble?[Contact support](https://groups.google.com/d/forum/alexavirtualbuttons) and we’ll help you sort it out.
