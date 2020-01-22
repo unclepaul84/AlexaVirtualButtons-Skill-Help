@@ -33,4 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Still Having trouble?[Contact support](https://groups.google.com/d/forum/alexavirtualbuttons) and we’ll help you sort it out.
+Still Having trouble? [Contact support](https://groups.google.com/d/forum/alexavirtualbuttons) and we’ll help you sort it out.
