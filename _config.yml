@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Virtual Buttons Alexa Skill
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
