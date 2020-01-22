@@ -1,5 +1,5 @@
 ### What is Virtual Buttons Alexa Skill?
-It is a Alexa Smart Home Skill which allows users to create virtual devices which can be used in Alexa Routines as triggers or actions.
+It is an Alexa Smart Home Skill which allows users to create virtual devices which can be used in Alexa Routines as triggers or actions.
 - Allows user to trigger Alexa Routine by making a via web request
 - Allows Alexa routine to call an arbitrary url
 
