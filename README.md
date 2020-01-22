@@ -1,9 +1,11 @@
 ### What is Virtual Smart Devices Alexa Skill?
-It is an Alexa Smart Home Skill which allows users to create virtual smart devices which can be used in Alexa Routines as triggers or actions.
-- Allows triggering Alexa Routines by making a via web request
-- Allows Alexa Routines to call an arbitrary url
+It is an Alexa Smart Home Skill which enables users to create virtual smart devices which can be used in Alexa Routines as triggers or actions.
+- Allows triggering Alexa Routines via web browser or IFTTT or NodeRed or curl
+- Allows Alexa Routines to call an arbitrary url (Webhook)
 
-### Markdown
+### Creating Alexa Routine Trigger
+1. Login to https://www.alexavirtualbuttons.tk with your Amazon Login
+2. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
