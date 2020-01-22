@@ -1,8 +1,8 @@
 ### What is Virtual Smart Devices Alexa Skill?
 Enables users to create virtual devices which can be used in Alexa Routines as triggers or actions. Great for DIY projects!
 
-- Allows triggering Alexa Routines via web browser or IFTTT or NodeRed
-- Allows Alexa Routines to call an arbitrary url
+- Allows triggering **Alexa Routines** via web browser or **IFTTT** or **NodeRed**
+- Allows **Alexa Routines** to call an arbitrary url
 
 
 ### Creating Alexa Routine Trigger
